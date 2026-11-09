@@ -1,0 +1,10 @@
+FORTNITE VISION MONITOR - VERSÃO ORGANIZADA
+
+Execute INSTALAR.bat e depois INICIAR.bat (Windows).
+Ou no terminal: py -m pip install -r requirements.txt && py main.py
+
+main.py = interface; monitor.py = monitoramento/teclado;
+detector.py = reconhecimento das imagens; config.py = referências;
+historico.py = partidas.json.
+
+Leia README.md para instruções, testes e limitações.
